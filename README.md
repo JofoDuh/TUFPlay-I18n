@@ -12,7 +12,7 @@ Below is a quick guide on how to add a new language or translate existing module
 
 To keep things clean, the files are organized like this:
 * `Languages/` - Contains language profile configurations (defines language name, authors, and IETF codes).
-* `/` - Things in the root directory typically contain universal translations used across the entire game.
+* `/` - Things in the root directory typically contain universal translations used across multiple/all languages.
 * `{Language}/` Example: `EnglishUS/` - Contains feature-specific translation blocks (e.g., UI panels, gameplay screens).
 
 ---
