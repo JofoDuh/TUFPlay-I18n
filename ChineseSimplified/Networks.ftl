@@ -5,13 +5,13 @@ download-widget-status-retry = 重试
 download-widget-status-quit = 退出
 download-widget-status-fetching-packs = 正在获取曲包{$dots}
 download-widget-status-fetching-pack-data = 正在获取曲包数据{$dots}
-download-widget-status-building-course = 正在生成课题{$dots}
+download-widget-status-building-course = 正在创建课题{$dots}
 
 download-widget-status-shuffling-course =
-    正在构建课题...
+    正在创建课题...
     正在随机排列关卡{$dots}
 
-download-widget-status-course-built-success = 课题生成成功！
+download-widget-status-course-built-success = 课题创建成功！
 download-widget-status-pack-fetch-success = 曲包获取并解析成功！
 download-widget-status-not-enough-banned = 移除关卡数量不足，正在随机补足{$dots}
 download-widget-status-downloading-levels = 正在下载关卡{$dots}
