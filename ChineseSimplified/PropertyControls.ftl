@@ -2,6 +2,6 @@
 # Property Controls
 # =============================================================================
 controls-toggle-state = { $state ->
-    [enabled] 已启用
-    *[disabled] 已禁用
+    [enabled] 启用
+    *[disabled] 禁用
 }
