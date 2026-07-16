@@ -21,11 +21,11 @@ popup-credits-message =
 
     메인 디자인 참고:
     - 레벨:
-      TAG - Grand Xross
+    {"    "}TAG - Grand Xross
     - 제작:
-      EPC Chart Team ⟪Stellar⟫
-      유한 & Bingsu & R=DY 
-      & wldb & sedi.
+    {"    "}EPC Chart Team ⟪Stellar⟫
+    {"    "}유한 & Bingsu & R=DY 
+    {"    "}& wldb & sedi.
 
     감사의 말:
     Eggsassin, ADOFAI Dev-Team, Hallu, V0W4N
