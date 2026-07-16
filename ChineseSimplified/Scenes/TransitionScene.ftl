@@ -11,6 +11,6 @@ transition-scene-all-ready = 所有关卡准备就绪！
 # =============================================================================
 transition-scene-quick-settings = 快速设置
 transition-scene-quick-settings-offset = 偏移
-transition-scene-quick-settings-buffer-size = 缓冲区大小
+transition-scene-quick-settings-buffer-size = 缓冲长度
 transition-scene-quick-settings-language = 语言
-transition-scene-quick-settings-show-overlay = 管理大屏要素
+transition-scene-quick-settings-show-overlay = 显示 UI
