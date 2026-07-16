@@ -1,3 +1,10 @@
+<p align="center">
+  <a>🇺🇸 English</a> |
+  <a href="docs/README.zh-CN.md">简体中文</a> |
+</p>
+
+<div align = center>
+
 # TUFPlay Translation Repository
 
 Le incredible translation repo for TUFPlay or sum 
@@ -5,6 +12,8 @@ Le incredible translation repo for TUFPlay or sum
 I use **Project Fluent** (a localization system by Mozilla) to manage translations. It's highly flexible and can handle natural-sounding plurals, genders, and grammar rules.
 
 Below is a quick guide on how to add a new language or translate existing modules.
+
+</div>
 
 ---
 

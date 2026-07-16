@@ -1,3 +1,10 @@
+<p align="center">
+  <a>🇺🇸 English</a> |
+  <a href="docs/README.zh-CN.md">简体中文</a> |
+</p>
+
+<div align = center>
+
 # TUFPlay 翻译仓库
 
 TUFPlay 的国际化翻译仓库。
@@ -5,6 +12,8 @@ TUFPlay 的国际化翻译仓库。
 我使用 **Project Fluent**（Mozilla 开发的本地化系统）来管理翻译。它非常灵活，可以自然地处理复数、性别以及语法规则。
 
 下面是添加新语言或翻译现有模块的快速指南。
+
+</div>
 
 ---
 
@@ -89,3 +98,5 @@ TUFPlay 的国际化翻译仓库。
 3. 提交一个 **Pull Request**，说明你添加或修改了哪些内容。
 
 当你的 PR 经审核并合并后，我就会将其同步更新到模组的主分支中。
+
+> Translated by orange_0618 :thumbsup: 
